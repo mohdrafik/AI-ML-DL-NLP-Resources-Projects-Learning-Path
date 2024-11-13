@@ -9,6 +9,8 @@
 ## Deep Learning
 - [Deep Learning Specialization by Andrew Ng](https://www.coursera.org/specializations/deep-learning)
 - [Deep Learning Book by Ian Goodfellow (PDF)](https://www.deeplearningbook.org/)
+## AI LLM CS229 - Standford
+- [AI-LLM Course CS229 - Standford university ](https://www.youtube.com/watch?v=vI46tzt4O7Y&list=PLw5wPprzytQl3vyLdR_yzn5sZFtmGjUUD&index=4)
 
 ## MATLAB Tutorial
 - [Introduction To MATLAB Programming -MIT OpenCourseWare](https://ocw.mit.edu/courses/18-s997-introduction-to-matlab-programming-fall-2011/)
