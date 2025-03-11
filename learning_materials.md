@@ -5,6 +5,10 @@
 - [Practical Machine Learning-Standford University](https://c.d2l.ai/stanford-cs329p/)
 - [Machine Learning by Andrew Ng - Coursera](https://www.coursera.org/learn/machine-learning)
 - [Machine Learning with Python - freeCodeCamp](https://www.freecodecamp.org/learn/machine-learning-with-python/)
+- [Stanford CS229: Machine Learning Course](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
+- [CS229: Machine Learning](https://cs229.stanford.edu/syllabus-summer2019.html)
+- [Machine Learning- Sudeshna Sarkar](https://www.youtube.com/@machinelearning-sudeshnasa3607)
+- [Fall 2023: 10-301/601 Introduction to Machine Learning](https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22d5bf275d-ff88-4bf6-a865-b065010f55c2%22&sortColumn=1&sortAscending=true&view=0)
 
 ## Deep Learning
 - [Deep Learning Specialization by Andrew Ng](https://www.coursera.org/specializations/deep-learning)
