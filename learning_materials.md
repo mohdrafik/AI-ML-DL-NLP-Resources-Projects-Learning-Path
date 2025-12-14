@@ -11,6 +11,7 @@
 - [Fall 2023: 10-301/601 Introduction to Machine Learning](https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22d5bf275d-ff88-4bf6-a865-b065010f55c2%22&sortColumn=1&sortAscending=true&view=0)
 
 ## Deep Learning
+- [Transformers & Large Language Models](https://cme295.stanford.edu/syllabus/)
 - [Deep Learning Specialization by Andrew Ng](https://www.coursera.org/specializations/deep-learning)
 - [Deep Learning Book by Ian Goodfellow (PDF)](https://www.deeplearningbook.org/)
 ## AI LLM CS229 - Standford
